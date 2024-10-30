@@ -1,7 +1,7 @@
-body {Backgroud-color: Blue;} 
-H1 {Backroud-color:green;} 
-<html> 
-<body>
-</body> 
-</html>
-<h1> fundo da tela é verde </h1>
+.body {
+  background-color: blue;
+} 
+.h1 {
+  backround-color: green;
+} 
+
